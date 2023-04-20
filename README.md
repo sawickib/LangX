@@ -1,5 +1,6 @@
 # LangX
-Language X - toy compiler in pieces (for teaching), sawickib, 2014-2023
+### Language X - toy compiler in pieces (for teaching)
+sawickib, 2014-2023
 
 1. readwrite - simple i/o processing
 2. simplecalc - artmetic expressions on integers
