@@ -1,5 +1,5 @@
 # LangX
-Language X - toy compiler in pieces (for teaching)
+Language X - toy compiler in pieces (for teaching), sawickib, 2014-2023
 
 1. readwrite - simple i/o processing
 2. simplecalc - artmetic expressions on integers
@@ -9,4 +9,4 @@ Language X - toy compiler in pieces (for teaching)
 6. function - simple functions; scopes of variables
 7. string - partial string type implementation
 
-sawickib, 2014-2023
+
