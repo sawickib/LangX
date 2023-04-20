@@ -8,3 +8,5 @@ Language X - toy compiler in pieces (for teaching)
 5. loop - repetitions, simple 'while' loop
 6. function - simple functions; scopes of variables
 7. string - partial string type implementation
+
+sawickib, 2014-2023
